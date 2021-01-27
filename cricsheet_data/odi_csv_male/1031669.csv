@@ -1,0 +1,34 @@
+version,1.4.0
+info,team,England
+info,team,West Indies
+info,gender,male
+info,season,2017
+info,date,2017/09/21
+info,series,West Indies tour of England 2017
+info,match_number,2
+info,venue,Trent Bridge
+info,city,Nottingham
+info,toss_winner,West Indies
+info,toss_decision,field
+info,umpire,RJ Tucker
+info,umpire,RJ Bailey
+info,reserve_umpire,MA Gough
+info,tv_umpire,SD Fry
+info,match_referee,J Srinath
+info,outcome,no result
+ball,1,0.1,England,JM Bairstow,AD Hales,JO Holder,0,1,1,,,,,"",""
+ball,1,0.2,England,JM Bairstow,AD Hales,JO Holder,0,1,1,,,,,"",""
+ball,1,0.3,England,JM Bairstow,AD Hales,JO Holder,0,0,,,,,,"",""
+ball,1,0.4,England,JM Bairstow,AD Hales,JO Holder,4,0,,,,,,"",""
+ball,1,0.5,England,JM Bairstow,AD Hales,JO Holder,3,0,,,,,,"",""
+ball,1,0.6,England,AD Hales,JM Bairstow,JO Holder,0,0,,,,,,"",""
+ball,1,0.7,England,AD Hales,JM Bairstow,JO Holder,1,0,,,,,,"",""
+ball,1,0.8,England,JM Bairstow,AD Hales,JO Holder,0,0,,,,,,"",""
+ball,1,1.1,England,AD Hales,JM Bairstow,JE Taylor,0,0,,,,,,"",""
+ball,1,1.2,England,AD Hales,JM Bairstow,JE Taylor,1,0,,,,,,"",""
+ball,1,1.3,England,JM Bairstow,AD Hales,JE Taylor,1,0,,,,,,"",""
+ball,1,1.4,England,AD Hales,JM Bairstow,JE Taylor,4,0,,,,,,"",""
+ball,1,1.5,England,AD Hales,JM Bairstow,JE Taylor,4,0,,,,,,"",""
+ball,1,1.6,England,AD Hales,JM Bairstow,JE Taylor,0,0,,,,,,"",""
+ball,1,2.1,England,JM Bairstow,AD Hales,JO Holder,0,0,,,,,,"",""
+ball,1,2.2,England,JM Bairstow,AD Hales,JO Holder,1,0,,,,,,"",""
